@@ -559,7 +559,7 @@
     transform: rotate(-405deg);
   }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 500px){
     .header{
         margin-top: 10px;
         display: block;
